@@ -47,3 +47,34 @@ The analysis focuses on identifying growth opportunities and competitive dynamic
 - **GitHub:** Version control and documentation
 - **Power BI**
 ---
+## Repository Structure
+data/
+├─ electric_vehicle_sales_by_state.csv
+├─ electric_vehicle_sales_by_makers.csv
+├─ dim_date.csv
+├─ dim_public_charging_stations_by_state.csv
+└─ meta_data.txt
+
+analysis/
+└─ EV_Market_Study_India_Analysis.xlsx
+
+screenshots/
+└─ dashboard.png
+
+---
+
+## Analysis Notes
+- The dataset is monthly and includes state-wise EV sales, maker-wise EV sales, a date dimension, and public charging station counts.
+- Common derived metrics used in analysis include:
+  - **Penetration Rate** = (EV Sold / Total Vehicles Sold) × 100
+  - **CAGR** for multi-year growth comparisons
+
+---
+
+## Conclusion
+This project demonstrates how EV market data can be used to analyze adoption trends, competitive positioning, and infrastructure readiness in India. The insights derived can support strategic planning, market entry evaluation, and long-term growth initiatives in the EV sector.
+
+---
+
+## Disclaimer
+This analysis is created for learning and portfolio demonstration using publicly available dataset
