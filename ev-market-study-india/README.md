@@ -45,7 +45,5 @@ The analysis focuses on identifying growth opportunities and competitive dynamic
 - **Excel:** Data cleaning, analysis, pivot tables, dashboards
 - **Power Query:** Data transformation and preparation
 - **GitHub:** Version control and documentation
-
+- **Power BI**
 ---
-
-## Repository Structure
