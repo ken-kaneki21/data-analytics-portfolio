@@ -47,20 +47,6 @@ The analysis focuses on identifying growth opportunities and competitive dynamic
 - **GitHub:** Version control and documentation
 - **Power BI**
 ---
-## Repository Structure
-data/
-├─ electric_vehicle_sales_by_state.csv
-├─ electric_vehicle_sales_by_makers.csv
-├─ dim_date.csv
-├─ dim_public_charging_stations_by_state.csv
-└─ meta_data.txt
-
-analysis/
-└─ EV_Market_Study_India_Analysis.xlsx
-
-screenshots/
-└─ dashboard.png
-
 ---
 
 ## Analysis Notes
