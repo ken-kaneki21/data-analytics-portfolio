@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large temp files
+*.log
+*.tmp

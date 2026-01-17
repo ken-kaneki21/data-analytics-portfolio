@@ -1,0 +1,13 @@
+date,Vehicle_Category,model,yhat
+2024-02-01,2-Wheelers,RandomForest_Lag,80406.37156666667
+2024-03-01,2-Wheelers,RandomForest_Lag,84246.31669999998
+2024-04-01,2-Wheelers,RandomForest_Lag,85376.57216666665
+2024-05-01,2-Wheelers,RandomForest_Lag,86287.80966666665
+2024-06-01,2-Wheelers,RandomForest_Lag,84316.22641587302
+2024-07-01,2-Wheelers,RandomForest_Lag,85767.77901111111
+2024-08-01,2-Wheelers,RandomForest_Lag,86737.88316666665
+2024-09-01,2-Wheelers,RandomForest_Lag,86737.88316666665
+2024-10-01,2-Wheelers,RandomForest_Lag,87118.47566666665
+2024-11-01,2-Wheelers,RandomForest_Lag,87347.86966666665
+2024-12-01,2-Wheelers,RandomForest_Lag,87118.47566666665
+2025-01-01,2-Wheelers,RandomForest_Lag,87118.47566666665
