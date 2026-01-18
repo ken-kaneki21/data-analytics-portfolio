@@ -1,0 +1,9 @@
+# Trained models
+*.joblib
+*.pkl
+
+# Archives
+*.zip
+
+# Generated data
+*.parquet
